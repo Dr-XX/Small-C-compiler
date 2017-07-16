@@ -1,0 +1,17 @@
+const int a=1;int b, c;
+
+{
+  b := 10;
+    if odd b then
+        {
+	  write b+a;
+	  read c;
+	};
+    else
+	{
+	  c:=10;
+ 	  write b+c;
+	  write c;
+	};
+  end;
+}.

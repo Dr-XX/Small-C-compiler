@@ -1,0 +1,11 @@
+    1 var            x| type=  int|          | lev=    0| addr=    3|
+    2 var            y| type=  int|          | lev=    0| addr=    4|
+    3 proc         lcm|           |          | lev=    0| addr=    2| size=6
+    4 var            a| type=  int|          | lev=    1| addr=    3|
+    5 var            b| type=  int|          | lev=    1| addr=    4|
+    6 var            c| type=  int|          | lev=    1| addr=    5|
+
+    1 var            x| type=  int|          | lev=    0| addr=    3|
+    2 var            y| type=  int|          | lev=    0| addr=    4|
+    3 proc         lcm|           |          | lev=    0| addr=    2| size=6
+

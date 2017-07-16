@@ -1,0 +1,11 @@
+const int a=1;int b;
+
+{
+b := 10;
+ do 
+{
+b := b-2;
+write b;
+};
+while b != 4;
+}.

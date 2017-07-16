@@ -1,0 +1,12 @@
+int n,i,s;
+{
+read n;
+i:=1;
+s:=1;
+
+repeat
+{ i:=i+1;s:=s*i };
+until i==n;
+write s;
+}.
+

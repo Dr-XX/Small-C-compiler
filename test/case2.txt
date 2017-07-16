@@ -1,0 +1,30 @@
+/*c choose which way to go*/
+/*c%3=0: 0 x! c%3=1: 1 [if x not in(0,10) x=x/10]  c%3=2: */
+int c,x,s,i;
+{
+
+read c;
+read x;
+switch(c%3)
+{
+ 	case 0:
+		{write 0;
+		i:=1;s:=1;
+		repeat {i:=i+1;s:=s*i;}; until i==x;
+		write s;
+		break;};
+	case 1:
+		{write 1;
+		if x<10 then
+ 			{if x>0 then  write x; else {x:=x/10;write x;}; 
+ 			end;};
+		end;
+		break; };
+	case 2:
+		{write 2;
+                if x%5==0 then write 1; end; 
+		break;};
+   
+};
+
+}.

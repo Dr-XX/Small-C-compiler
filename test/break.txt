@@ -1,0 +1,19 @@
+const int a=1;int b,c;
+
+{
+b := 10;
+while b != 4 do 
+{
+  b := b-2;
+	if b == 6
+	then {	
+		for(c:=0;c<=a;c++){
+		if c<1 then write c; else break; end;
+		};
+		write b*b;
+		break;
+	};
+	end;
+   write b;
+};
+}.

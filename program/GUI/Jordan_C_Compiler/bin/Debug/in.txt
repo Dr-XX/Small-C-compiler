@@ -1,0 +1,21 @@
+int x,y;
+
+
+proc lcm;
+int a,b,c;
+{
+   a:=x; b:=y;
+   do {
+	c:=a%b;
+	a:=b;
+	b:=c;
+   };
+   while c!=0;
+   write x*y/a;
+};
+
+{
+read x;
+read y;
+call lcm;
+}.

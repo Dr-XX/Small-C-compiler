@@ -1,0 +1,16 @@
+const int a=1;
+int x,y;
+bool z,w,u;
+
+{
+write a;
+w:=true;
+u:=false;
+z:=false;
+write w|u;
+write w&u;
+x:=5;
+y:=4;
+write (x*y-a)%x;
+
+ }.

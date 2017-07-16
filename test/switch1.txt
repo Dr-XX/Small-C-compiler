@@ -1,0 +1,15 @@
+/*if x>3 then x=3 output x^n */
+
+int x,n;
+{
+read x;
+read n;
+write n;
+if n>3 then n:=3; end;
+switch(n){
+ case 0: write 1;break;
+ case 1: write x;break;
+ case 2: write x*x;break;
+ case 3: write x*x*x;break;
+};
+}.

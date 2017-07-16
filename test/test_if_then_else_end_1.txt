@@ -1,0 +1,10 @@
+const int a=1;int b;
+
+{
+b := 10;
+if odd b then
+write b;
+else
+ write b-1;
+end;
+}.

@@ -1,0 +1,9 @@
+const int a=1;int b, c;
+{
+  read b;
+  read c;
+  b := b+c;
+  c :=c+2*a;
+  write b;
+  write c;
+}.

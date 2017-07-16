@@ -1,0 +1,26 @@
+int i,j,x;
+
+proc prime;
+{
+    for(i:=2;i<=100;i++)
+    {
+        x:=1;
+	for(j:=2;j<i;j++)
+	{
+	    if i%j == 0
+	    then {
+		x:=0;
+		break;
+		};
+	    end;
+	};
+	if x==1
+	then write i;
+	end;
+    };
+};
+{
+    call prime;
+}
+.
+

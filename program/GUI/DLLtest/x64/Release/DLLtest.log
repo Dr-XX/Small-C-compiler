@@ -1,0 +1,8 @@
+﻿DLLtest.obj : warning LNK4197: 多次指定导出“test2”；使用第一个规范
+DLLtest.obj : warning LNK4197: 多次指定导出“test1”；使用第一个规范
+    正在创建库 C:\Users\cww97\Desktop\DLLtest\x64\Release\DLLtest.lib 和对象 C:\Users\cww97\Desktop\DLLtest\x64\Release\DLLtest.exp
+  正在生成代码
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DLLtest.vcxproj -> C:\Users\cww97\Desktop\DLLtest\x64\Release\DLLtest.dll
+  DLLtest.vcxproj -> C:\Users\cww97\Desktop\DLLtest\x64\Release\DLLtest.pdb (Full PDB)

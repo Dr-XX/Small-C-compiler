@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DLLtest.cpp
+    正在创建库 D:\Program\jordan_c\Jordan_C_Compiler\Release\DLLtest.lib 和对象 D:\Program\jordan_c\Jordan_C_Compiler\Release\DLLtest.exp
+  正在生成代码
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DLLtest.vcxproj -> D:\Program\jordan_c\Jordan_C_Compiler\Release\DLLtest.dll
+  DLLtest.vcxproj -> D:\Program\jordan_c\Jordan_C_Compiler\Release\DLLtest.pdb (Full PDB)

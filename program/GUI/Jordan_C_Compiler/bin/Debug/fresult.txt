@@ -1,0 +1,5 @@
+Start small
+please input a number:7
+please input a number:88
+616
+End small

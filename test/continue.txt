@@ -1,0 +1,14 @@
+
+
+int x,y,n;
+{
+x:=1;
+y:=2;
+for(n :=0;n <= x^y; n:=n+1)
+{
+
+if n == 1 then continue; end;
+if n == 2 then break; end; 
+write n;
+};
+}.

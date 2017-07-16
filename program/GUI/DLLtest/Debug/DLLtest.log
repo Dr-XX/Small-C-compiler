@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DLLtest.cpp
+    正在创建库 D:\Program\jordan_c\Jordan_C_Compiler\Debug\DLLtest.lib 和对象 D:\Program\jordan_c\Jordan_C_Compiler\Debug\DLLtest.exp
+  DLLtest.vcxproj -> D:\Program\jordan_c\Jordan_C_Compiler\Debug\DLLtest.dll
+  DLLtest.vcxproj -> D:\Program\jordan_c\Jordan_C_Compiler\Debug\DLLtest.pdb (Full PDB)

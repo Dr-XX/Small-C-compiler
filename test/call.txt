@@ -1,0 +1,22 @@
+const int a=1;
+
+proc p1;
+int x,y;
+bool z,w,u;
+{
+write a;
+w:=true;
+u:=false;
+z:=true;
+x:=3;
+y:=7;
+write w|u;
+write w&u;
+write (x*y-a)%x;
+write w&!z|u;
+};
+
+{
+call p1;
+}
+.

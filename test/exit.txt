@@ -1,0 +1,13 @@
+const int a=1;int b;
+
+{
+b := 10;
+ do 
+{
+b := b-2;
+if b==6 then exit;end;
+write b;
+};
+while b != 4;
+write b;
+}.
